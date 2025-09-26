@@ -1,0 +1,26 @@
+.basecolor {
+    color: rgb(13, 51, 31);
+    font-size: 23px;
+
+}
+.colorspecial {
+    color: rgb(1, 22, 11);
+}
+h2{
+
+
+    padding-top: 0px;
+    margin-left: 20px;
+}
+body {
+    background: #876c14;
+background: linear-gradient(69deg,rgba(135, 108, 20, 1) 0%, rgba(147, 191, 169, 1) 50%, rgba(36, 66, 58, 1) 100%);
+
+}
+
+    .twocolumns {
+        display: grid;
+        grid-template-columns: 1fr 1fr; 
+        gap: 0px;
+
+    }
