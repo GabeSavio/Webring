@@ -38,6 +38,6 @@ window.onload = function () {
     let prng = mulberry32(hash[0]);
     let rand = prng();
     let randomIndex = Math.floor(rand * fortunes.length);
-    document.getElementById("fortune").textContent = "You are accepted to come: " + fortunes[randomIndex];
+    document.getElementById("result").textContent = "You are accepted to come: " + fortunes[randomIndex];
   }
 };
