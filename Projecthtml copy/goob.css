@@ -1,0 +1,21 @@
+body {
+    background: #876c14;
+background: linear-gradient(69deg,rgba(135, 108, 20, 1) 0%, rgba(147, 191, 169, 1) 50%, rgba(36, 66, 58, 1) 100%);
+
+}
+
+h1{
+color: #00255d;
+
+
+}
+
+h2{
+
+
+    color: rgb(7, 61, 61);
+}
+p {
+    color: rgb(13, 51, 31);
+    font-size: 23px;
+}
